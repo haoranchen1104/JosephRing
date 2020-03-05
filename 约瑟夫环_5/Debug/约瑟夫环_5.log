@@ -1,0 +1,10 @@
+﻿F:\visual studio\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(约瑟夫环_5.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  stdafx.cpp
+  约瑟夫_2D.cpp
+  约瑟夫_MD3.cpp
+  约瑟夫_BIL.cpp
+  约瑟夫_LDL.cpp
+  约瑟夫_BIR.cpp
+  约瑟夫环_测试.cpp
+  正在生成代码...
+  约瑟夫环_5.vcxproj -> F:\workshop\约瑟夫环_FINAL\约瑟夫环_FINAL\Debug\约瑟夫环.exe
